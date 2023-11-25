@@ -15,3 +15,5 @@ git push --set-upstream origin newbranch - закинуть ветку на се
 git push origin --delete (имя ветки) - удаление ветки с веб версии
 
 Разрешаем конфликт 
+ 12
+ 
