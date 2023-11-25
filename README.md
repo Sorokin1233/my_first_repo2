@@ -12,3 +12,4 @@ git pull - забирает с веб версии
 добавим текст локально 
 
 git push --set-upstream origin newbranch - закинуть ветку на сервер
+git push origin --delete (имя ветки) - удаление ветки с веб версии
