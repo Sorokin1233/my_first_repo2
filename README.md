@@ -13,3 +13,5 @@ git pull - забирает с веб версии
 
 git push --set-upstream origin newbranch - закинуть ветку на сервер
 git push origin --delete (имя ветки) - удаление ветки с веб версии
+
+Разрешаем конфликт 
