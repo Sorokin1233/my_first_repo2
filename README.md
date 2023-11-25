@@ -16,6 +16,5 @@ git push origin --delete (имя ветки) - удаление ветки с в
 
 Разрешаем конфликт 
 теперь тут ситуевина
-git pull --rebase - при конфликте
- git pull rebase --contineum - завершение конфликта
- 
+
+
